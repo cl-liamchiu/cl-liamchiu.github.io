@@ -1,6 +1,6 @@
 import { getBlogPosts } from "app/blog/utils";
 
-export const baseUrl = "https://cl-liamchiu.github.io/my-blog";
+export const baseUrl = "https://cl-liamchiu.github.io";
 
 export const dynamic = "force-static";
 
